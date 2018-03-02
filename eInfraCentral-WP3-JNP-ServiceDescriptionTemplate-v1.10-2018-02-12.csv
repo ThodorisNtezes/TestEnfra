@@ -42,7 +42,7 @@ http://training.egi.eu";;Visible to Customers (Catalogue/Portfolio);Optional;;
 Service Feedback;URL to page where customers can provide feedback on the service;URL;"http://www.egi.eu/cloud-compute/Feedback
 http://servicefeedback.egi.eu";;Visible to Customers (Catalogue/Portfolio);Optional;;
 Service Contractual Information;;;;;;;;
-Service Price;Payment models that apply, the cost and any related information.;Free text (max 500)-Include URL;e.g. free, pay­as­you­go, subscription, membership to corporate customers , indirect funding (EC, State funding), etc.;;Visible to Customers (Catalogue/Portfolio);Optional;;
+Service Price;Payment models that apply, the cost and any related information.;Free text (max 500)-Include URL;e.g. free, pay?as?you?go, subscription, membership to corporate customers , indirect funding (EC, State funding), etc.;;Visible to Customers (Catalogue/Portfolio);Optional;;
 Service Level Agreement;URL to the information about the levels of performance that a service provider is expected to achieve. ;Free text (max 500)-Include URL;http://www.egi.eu/cloud-compute/SLA;;Visible to Customers (Catalogue/Portfolio);Mandatory;;
 Service Terms Of Use;Link describing the rules, service conditions and usage policy which one must agree to abide by in order to use the service. ;Free text (max 500)-Include URL;http://www.egi.eu/cloud-compute/TermsOfUse;;Visible to Customers (Catalogue/Portfolio);Optional;;
 Service Funding;Sources of funding for the development and/or operation of the service.;Free text (max 1000);Funder registry;;Visible to Customers (Catalogue/Portfolio);Optional;;
